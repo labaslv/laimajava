@@ -1,2 +1,1 @@
 # laimajava
-xxxx
